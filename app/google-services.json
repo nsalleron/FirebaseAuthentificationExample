@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255551682110",
+    "project_id": "fir-authentificationexmple",
+    "storage_bucket": "fir-authentificationexmple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255551682110:android:3898ca108e999bf11e836f",
+        "android_client_info": {
+          "package_name": "com.nsalleron.firebaseauthentificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255551682110-ctaonimuepq1v6dgmimi9d0601a9j1a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Su_jCKfP9KSIuNUTRBf52-WU_ysk-yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255551682110-ctaonimuepq1v6dgmimi9d0601a9j1a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
